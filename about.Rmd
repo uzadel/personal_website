@@ -3,8 +3,4 @@ title: "About this site"
 description: |
   Some additional details about the website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+[CV](files/CV_Zadel.pdf)
