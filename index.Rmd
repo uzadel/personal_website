@@ -3,7 +3,7 @@ title: "Urška Zadel"
 image: "frank.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/ur%C5%A1ka-zadel-b5659a67/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
