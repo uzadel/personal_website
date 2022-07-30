@@ -13,6 +13,4 @@ navbar:
       href: research.html
     - text: "Interests"
       href: interests.html
-    - text: "CV"
-      href: cv.html
 output: distill::distill_article
