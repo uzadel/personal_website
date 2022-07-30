@@ -1,4 +1,5 @@
 ---
 title: "Interests"
+site: distill::distill_website
 ---
 I am a curious person of many interests.

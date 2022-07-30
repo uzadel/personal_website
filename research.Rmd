@@ -1,4 +1,5 @@
 ---
 title: "Research"
+site: distill::distill_website
 ---
 I spent some time working in academia. Here you can read about my research projects and find links to the published papers.

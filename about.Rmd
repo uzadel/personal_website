@@ -2,5 +2,6 @@
 title: "About this site"
 description: |
   Some additional details about the website
+site: distill::distill_website
 ---
 [CV](files/CV_Zadel.pdf)
